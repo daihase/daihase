@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/daihase?label=Follow&style=social)](https://github.com/daihase)
 
-I'm daihase. Sometimes as a engineer, I'm writing programs with Swift and Go. 
+I'm daihase. Sometimes as a engineer, I'm writing programs with Swift, Dart and Go. 
 
 I ❤ 
 * Swift
