@@ -6,7 +6,6 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/daihase?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/daihase)
 [![GitHub stars](https://img.shields.io/github/stars/daihase?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/daihase)
 
 </div>
@@ -127,6 +126,7 @@ focus: Flutter / Swift / Go / AWS / GCP
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-daihase.github.io-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://daihase.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/Email-vermouth.6969@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermouth.6969@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-daihase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daihase)
 
