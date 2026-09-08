@@ -6,7 +6,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub stars](https://img.shields.io/github/stars/daihase?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/daihase)
+[![Stars](https://img.shields.io/github/stars/daihase?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/daihase?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/daihase?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/daihase?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daihase.github.io-0891b2?style=for-the-badge&logo=safari&logoColor=white&labelColor=1c1917)](https://daihase.github.io/my-portfolio/)
 
 </div>
 
@@ -63,60 +65,105 @@ focus: Flutter / Swift / Go / AWS / GCP
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daihase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=daihase&show_icons=true&theme=default&hide_border=true&count_private=true" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daihase&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daihase&layout=compact&theme=default&hide_border=true" height="180" />
-</picture>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=daihase&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=daihase&theme=default&hide_border=true" />
-</picture>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-[![daihase's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daihase&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=daihase&theme=flat&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📌 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/daihase/Sketch">Sketch</a></h3>
+      <p>A drawing engine for iOS. Pen, eraser, stamp, fill, undo/redo, shape tools and pen filters — everything you need to ship a paint app, in pure Swift.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/SPM_%7C_CocoaPods_%7C_Carthage-4BC51D?style=flat-square" alt="SPM / CocoaPods / Carthage" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/daihase/Sketch?style=flat-square&logo=github&label=stars&color=0891b2&labelColor=1c1917" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/daihase/Sketch?style=flat-square&logo=github&label=forks&color=0891b2&labelColor=1c1917" alt="Forks" />
+        <img src="https://img.shields.io/github/last-commit/daihase/Sketch?style=flat-square&label=updated&color=0891b2&labelColor=1c1917" alt="Last commit" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/daihase/LSDialogViewController">LSDialogViewController</a></h3>
+      <p>Present any custom view as a modal dialog on iOS, with a set of ready-made show/hide animation patterns. Written in Swift.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/SPM_%7C_CocoaPods_%7C_Carthage-4BC51D?style=flat-square" alt="SPM / CocoaPods / Carthage" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/daihase/LSDialogViewController?style=flat-square&logo=github&label=stars&color=0891b2&labelColor=1c1917" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/daihase/LSDialogViewController?style=flat-square&logo=github&label=forks&color=0891b2&labelColor=1c1917" alt="Forks" />
+        <img src="https://img.shields.io/github/last-commit/daihase/LSDialogViewController?style=flat-square&label=updated&color=0891b2&labelColor=1c1917" alt="Last commit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://itunes.apple.com/jp/app/doodle-maker-luo-shukimeka/id1185784566?mt=8">Doodle Maker</a></h3>
+      <p>A drawing app on the App Store, built on top of Sketch. 150K+ downloads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" />
+        <br/>
+        <img src="https://img.shields.io/badge/downloads-150K%2B-0891b2?style=flat-square&labelColor=1c1917" alt="Downloads" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎚️ <a href="https://github.com/daihase/slider_action_button">slider_action_button</a></h3>
+      <p>A slide-to-confirm action button for Flutter — the swipe gesture you want in front of irreversible actions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/daihase/slider_action_button?style=flat-square&logo=github&label=stars&color=0891b2&labelColor=1c1917" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/daihase/slider_action_button?style=flat-square&label=updated&color=0891b2&labelColor=1c1917" alt="Last commit" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
 <div align="center">
 
-<a href="https://github.com/daihase/Sketch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihase&repo=Sketch&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/daihase/LSDialogViewController">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihase&repo=LSDialogViewController&theme=tokyonight&hide_border=true" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daihase&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daihase&theme=default" alt="Profile details" />
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daihase&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daihase&theme=default" height="200" alt="Top languages by repo" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daihase&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daihase&theme=default" height="200" alt="Top languages by commit" />
+</picture>
 
-[![Doodle Maker](https://img.shields.io/badge/📱_Doodle_Maker-150K+_Downloads-F05138?style=for-the-badge)](https://itunes.apple.com/jp/app/doodle-maker-luo-shukimeka/id1185784566?mt=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daihase&theme=github_dark&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daihase&theme=default&utcOffset=9" height="200" alt="Productive time" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=daihase&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=daihase&theme=default&hide_border=true" alt="Contribution streak" />
+</picture>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daihase/daihase/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daihase/daihase/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/daihase/daihase/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
 
 </div>
 
